@@ -1,0 +1,18 @@
+# .dockerignore
+
+# Ignore contents of model training directory
+code/model training/*
+
+# Ignore contents of dataset directory
+dataset/*
+
+# Ignore specific model files
+models/mobilenet_best.pth
+models/Orange detection counting.pt
+models/Regnet_best.pth
+models/resnet_best.pth
+
+# Don't ignore other files in the models directory
+!models/Detectron 2 Orange dieases segmentation
+!models/efficientnet_best.pth
+!models/vit_classification_model.pth

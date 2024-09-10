@@ -1,0 +1,87 @@
+[
+    {
+        "original_image": "orange1.jpg",
+        "count_of_detected_oranges": 1,
+        "oranges_predicted_classification": [
+            {
+                "cropped_orange_coordinates": [
+                    9.468664169311523,
+                    175.7327423095703,
+                    206.83506774902344,
+                    374.6361389160156
+                ],
+                "orange_type": "Cara Cara"
+            }
+        ],
+        "time_for_detection": 1.9555459022521973,
+        "total_time_for_classification": 0.3820018768310547
+    },
+    {
+        "original_image": "orange1.jpg",
+        "count_of_detected_oranges": 1,
+        "oranges_predicted_classification": [
+            {
+                "cropped_orange_coordinates": [
+                    9.468664169311523,
+                    175.7327423095703,
+                    206.83506774902344,
+                    374.6361389160156
+                ],
+                "orange_type": "Tangerine"
+            }
+        ],
+        "time_for_detection": 1.8623685836791992,
+        "total_time_for_classification": 0.11200118064880371
+    },
+    {
+        "original_image": "C:\\Users\\sneah\\Python projects\\Oranges\\dataset\\classification train species\\Blood Oranges\\5.jfif",
+        "count_of_detected_oranges": 1,
+        "oranges_predicted_classification": [
+            {
+                "cropped_orange_coordinates": [
+                    11.279557228088379,
+                    14.215360641479492,
+                    238.05093383789062,
+                    191.66346740722656
+                ],
+                "orange_type": "Cara Cara"
+            }
+        ],
+        "time_for_detection": 1.8781793117523193,
+        "total_time_for_classification": 0.09700512886047363
+    },
+    {
+        "original_image": "C:\\Users\\sneah\\Python projects\\Oranges\\dataset\\classification train species\\Blood Oranges\\5.jfif",
+        "count_of_detected_oranges": 1,
+        "oranges_predicted_classification": [
+            {
+                "cropped_orange_coordinates": [
+                    11.279557228088379,
+                    14.215360641479492,
+                    238.05093383789062,
+                    191.66346740722656
+                ],
+                "orange_type": "Blood Oranges"
+            }
+        ],
+        "time_for_detection": 1.9137523174285889,
+        "total_time_for_classification": 0.3280031681060791
+    },
+    {
+        "original_image": "C:\\Users\\sneah\\Python projects\\Oranges\\dataset\\classification train species\\Blood Oranges\\5.jfif",
+        "count_of_detected_oranges": 1,
+        "oranges_predicted_classification": [
+            {
+                "cropped_orange_coordinates": [
+                    11.279557228088379,
+                    14.215360641479492,
+                    238.05093383789062,
+                    191.66346740722656
+                ],
+                "orange_type": "Blood Oranges"
+            }
+        ],
+        "time_for_detection": 2.990727663040161,
+        "total_time_for_classification": 0.507697582244873
+    }
+]
